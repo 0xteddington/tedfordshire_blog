@@ -1,0 +1,81 @@
+---
+import Image from 'astro/components/Image.astro';
+import Layout from '../layouts/BlogPost.astro';
+import Avatar from '../images/avatar.png';
+---
+
+<Layout
+	title="$ ~/whoami.md"
+	description="who is this guy and what is his deal?"
+	pubDate={new Date('August 08 2021')}
+	heroImage="/blog-placeholder-about.jpg"
+>
+
+<Image src={Avatar} alt="avatar of chris ted toms." /> 
+	
+<p>👋 Hi, I’m Ted – a Security Engineer from the UK.</p>
+
+<p>I'm a Blue Teamer in Security Engineering looking after security tools, applications and data gathering for the Security Operations Centre (SOC).
+This site is about my journey and to provide some insight into how I walked my career path to help you walk yours hopefully.</p>
+
+<p>
+	<h2>$ ~/Experience.txt</h2>
+		<ul>
+			<li>Security Engineer @ Johnson Matthey</li>
+			<li>Network Administrator @ Wipro Ltd</li>
+			<li>Network Engineer @ John Lewis Partnership</li>
+			<li>IT Administrator @ Grass Valley LLC</li>
+			<li>Customer Service Engineer @ Grass Valley LLC</li>
+			<li>Intranet Web Admin @ Ministry of Defence</li>
+			<li>Office Administrator @ Ministry of Defence</li> 
+		</ul>
+</p>
+
+<p>
+	<h2>$ ~/Certifications.txt</h2>
+		<ul>		
+			<li>Certificate of Completion Udemy – CompTIA Security+ (SY0-601)</li>
+			<li>Certificate of Completion LinkedIn – Understanding Zero Trust</li>
+			<li>Certificate of Completion LinkedIn – Vulnerability Management with Nessus</li>
+			<li>Certificate of Completion LinkedIn – Introduction to VMware</li>
+			<li>Certificate of Completion LinkedIn – Wireshark Essential Training</li>
+			<li>Certificate of Completion LinkedIn – Firewall Admin Essential Training</li>
+			<li>Certificate of Completion LinkedIn – Introduction to Linux</li>
+			<li>Certificate of Completion LinkedIn – Learning Kali Linux</li>
+			<li>Certificate of Completion LinkedIn – Learning Splunk</li>
+			<li>Certificate of Completion LinkedIn – Python for Non-Programmers</li>
+			<li>Certificate of Completion LinkedIn – JSON Essential Training</li>
+			<li>Certificate of Completion of Try Hack Me – Complete Beginner Path</li>
+			<li>ITIL Foundation Certificate in IT Service Management (V3)</li>
+			<li>Certified Data Centre Technician Professional (CDCTP)</li>
+			<li>EDIUS Video Editing Software and Hardware Trainer</li>
+			<li>Certificate of Completion – Website User Testing</li>
+			<li>BSI ISO 9001 Internal Auditor</li>
+		</ul>
+</p>
+<p>
+	<h2>$ ~/Achievements.txt</h2>
+		<p>Commendation from Commander in Chief Strike Command (RAF) for services to the Royal Air Force</p>
+</p>
+
+<p>
+	<h2>$ ~/Projects.txt</h2>
+	<ul>
+		<li>Personal Blog</li>
+		<li>CTF Player</li>
+		<li>Homelab</li>
+			<ul>	
+			<li>Linux</li>
+			<li>Windows</li>
+			<li>macOS</li>
+			<li>Networking (Physical, Virtual and Logical)</li>
+			<li>Virtualisation (Proxmox/VMware/VirualBox/WLS)</li>	
+			<li>Network Attached Storage (NAS)</li>
+			<li>Monitoring</li>
+			<li>Cloud Services (SaaS/PaaS/IaaS)</li>
+			<li>SIEM/Time Based Data (Splunk/Wazuh/InfluxDB)</li>
+			</ul>
+	</ul>
+</p>
+
+</Layout>

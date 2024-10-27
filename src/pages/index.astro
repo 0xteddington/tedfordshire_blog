@@ -2,7 +2,9 @@
 import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import TedfordshireLogo from '../images/logo_hires.png';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import Image from 'astro/components/Image.astro';
 ---
 
 <!doctype html>
@@ -12,8 +14,11 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 	</head>
 	<body>
 		<Header />
+		
+		<Image src={TedfordshireLogo} alt="tedfordshire logo." width="400" margin-left="auto"; margin-right="auto"; />
 		<main>
-			<h1>🧑‍🚀 Hello, Astronaut!</h1>
+			<h1>Welcome to Tedfordshire</h1>
+	
 			<p>
 				Welcome to the official <a href="https://astro.build/">Astro</a> blog starter template. This
 				template serves as a lightweight, minimally-styled starting point for anyone looking to build
