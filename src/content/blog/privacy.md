@@ -25,7 +25,7 @@ One quick and easy way to reduce sites from tracking you is to use a browser tha
 3. [Firefox](https://www.mozilla.org/en-GB/firefox/new/)
 4. [LibreWolf](https://librewolf.net/)
 
-![browsers logos](/browsers.svg)
+![browsers logos](/src/images/browsers.svg)
 
 These offer great privacy settings, keeping your browsing private even without using incognito mode. DuckDuckGo and Brave are based on Google Chrome and have a similar feel, so you can use something familiar without your data being compromised. 
 
@@ -49,11 +49,11 @@ Having a Google account is excellent and convenient, along with services like Go
 
 Sites like [usernamegenerator.io](https://usernamegenerator.io/) can help you generate a random username or base it on non-specific choices like colours, animals, and pop culture.
 
-![proton logo](/proton-purple.svg)
+![proton logo](/src/images/proton-purple.svg)
 
 Proton, like Google, has a suite of apps that you can use, but with the bonus of storing your data on encrypted servers and removing trackers from your emails.
 
-![proton mail screenshot](/protonmail.png)
+![proton mail screenshot](/src/images/protonmail.png)
 
 ## Hiding Your Email Address
 Proton has a built-in feature where you can provide your logins with a dedicated email alias, which will then be forwarded to your new secure email account.  
@@ -63,14 +63,14 @@ You can also use this with other email services, such as Gmail, Hotmail, Outlook
 - [SimlpleLogin](https://simplelogin.io/)
 - [Relay](https://relay.firefox.com/)
 
-![browsers logos](/email_relay.svg)
+![browsers logos](/src/images/email_relay.svg)
 
 ## Password Managers
 Password managers are great for creating a new password for every login and only remembering your master password.
 
 These apps have various browsers and mobile plugins that allow you to log in quickly to any device. Most also have an autofill function, meaning that your username/email address and super safe and secure password are populated in one click, and you can click "login".
 
-![autofill screenshot](/autofill.png)
+![autofill screenshot](/src/images/autofill.png)
 
 ### Recommendations:
 - [1Password](https://1password.com/) (paid)
@@ -78,7 +78,7 @@ These apps have various browsers and mobile plugins that allow you to log in qui
 - [Bitwarden](https://bitwarden.com/) (free & paid options)
 - [Dashlane](https://www.dashlane.com/personal-password-manager) (free & paid options)
 
-![browsers logos](/pass.svg)
+![browsers logos](/src/images/pass.svg)
 
 Password managers offer much more than keeping passwords safe; they also protect other vital data, such as credit card information, identification, passports, licenses, and medical details.
 
@@ -93,11 +93,11 @@ These methods are timed to a minute or two before changing or requiring you to r
 
 One of the best-added layers of security is to enable MFA (where possible), which may require a One-Time Password (OTP) and an authentication app to generate the code.
 
-![authentication app screenshot](/auth_app.png)
+![authentication app screenshot](/src/images/auth_app.png)
 
 The neat thing about password managers is that they can also provide this feature and auto-populate the code when you log in, saving the panic of finding your phone and then trying to get the code in before the time runs out. 
 
-![1password screenshot of otp](/1pass_otp.png)
+![1password screenshot of otp](/src/images/1pass_otp.png)
 
 ## Summary
 As you can gather, Password Managers are simple and powerful ways of managing your login details and ensuring your security. Most of the ones recommended here offer a family subscription or one-off payment. 
@@ -110,15 +110,15 @@ Ted
 
 ## Links and further reading
 
-- [Shannon Morse]
+- Shannon Morse
   - [YouTube](https://www.youtube.com/@ShannonMorse)
   - [Website](https://www.morsecodecreative.com/)
 - David Bombal
   - [Website](https://davidbombal.com/)
-  - [YouTube](https://www.youtube.com/@davidbombal) (YouTube)
+  - [YouTube](https://www.youtube.com/@davidbombal)
 - Naomi Brockwell
   - [Website](https://www.nbtv.media/)
-  - [YouTUbe](https://www.youtube.com/@NaomiBrockwellTV)
+  - [YouTube](https://www.youtube.com/@NaomiBrockwellTV)
 - Dr Jessica Barker
   - [YouTube](https://www.youtube.com/@drjessicabarker)
 - Ali Diamond
