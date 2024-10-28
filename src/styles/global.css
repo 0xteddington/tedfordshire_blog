@@ -89,14 +89,12 @@ p {
 	margin-bottom: 1em;
 	color: rgb(var(--gray))
 }
-ul {
-	list-style-type: circle;
-	color: #F5286A;
-  }
   
-ul li {
-	list-style-type: circle;
+.list ul li {
 	color: #00B9D7;
+  }
+  ul {
+	color: #F5286A;
   }
 
 .prose p {

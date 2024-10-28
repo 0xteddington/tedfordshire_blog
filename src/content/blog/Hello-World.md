@@ -13,4 +13,4 @@ I’m not saying I am an all-knowing deity by any means (in fact far from it), s
 
 Anyway enough rambling for now, stay tuned for future posts.
 
-[$ ~/whoami.txt](https://tedfordshire.co.uk/whoami/)
+[$ ~/whoami.txt](/whoami)
