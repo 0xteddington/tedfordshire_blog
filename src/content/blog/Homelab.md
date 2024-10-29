@@ -2,7 +2,7 @@
 title: '$ ~/homelab.conf'
 description: 'My Homelab V1'
 pubDate: 'Feb 21 2022'
-heroImage: '/blog-placeholder-2.jpg'
+heroImage: '/blog-homelab.jpg'
 ---
 
 There are many ways of learning skills in technology and personally, I like to learn by practical vs theory, and installing an application or installing hardware can be one of the best ways to get hands-on experience.

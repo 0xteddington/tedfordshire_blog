@@ -2,7 +2,7 @@
 title: '$ ~/cyber_security_engineer.txt'
 description: 'About my first role in Cyber'
 pubDate: 'May 10 2023'
-heroImage: '/blog-placeholder-4.jpg'
+heroImage: '/blog-cyber-engineer.jpg'
 ---
 
 
@@ -16,7 +16,7 @@ In this post, I will overview my role and some of the things I do in the good fi
 
 As I mentioned there are lots of variables for a job title, but there are some common responsibilities that appear in engineering roles:
 
-#### Identifying and Implementation Solutions
+#### Identification and Implementation Solutions
 
 This is where engineers will look for solutions to protect or enhance existing toolsets or monitoring to provide better protection, prevention, and data for analytics.
 
@@ -79,16 +79,14 @@ As with any role, there are going to be certain skills that the recruiter compan
 
 Hopefully, you have found some of this info useful and has given you an appetite for what this kind of role would entail for someone like me who worked in IT infrastructure and wanted to move into Cyber Security it’s a great transitional role.
 
-If you feel like me you have most of the technical skills down, but the soft skills are something you need to brush up on there are lots of different resources on platforms such as [Udemy](https://www.udemy.com/) or [LinkedIn Learning](https://www.linkedin.com/learning/). I however recently attended a soft skills course run by [Capture the Talent](https://capturethetalent.co.uk/not-quite-coaching/)
-
-[![](https://tedfordshire.co.uk/wp-content/uploads/2023/04/CTT_TRANSPARENT_ONE-300x300.png)](https://capturethetalent.co.uk/not-quite-coaching/)
+If you feel like me you have most of the technical skills down, but the soft skills are something you need to brush up on there are lots of different resources on platforms such as [Udemy](https://www.udemy.com/) or [LinkedIn Learning](https://www.linkedin.com/learning/).
 
 ### Not Quite Coaching
 
 This was a group course with other like-minded souls that you interact with to hone the skills you are learning along the way. The unique thing about this course is that it’s run by cyber practitioners not just those trained in soft skills so the content is much more relevant to what you need for day-to-day work. It has to be one of the best non-techie courses I have been on hands down!
 
-If you would like to know more about getting into Cyber Security Engineering or about the Capture The Talent course reach out to me or the links above.
+Ted
 
 ---
 
-_**I am in no way sponsored by any recommended parties and all my opinions are based on actual experience.**_
+> **I am in no way sponsored by any recommended parties and all my opinions are based on actual experience.**

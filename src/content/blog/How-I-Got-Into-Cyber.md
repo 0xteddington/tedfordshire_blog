@@ -2,7 +2,7 @@
 title: '$ ~/how_i_got_into_cyber_security.txt'
 description: 'My Journey into Cyber Security'
 pubDate: 'May 10 2023'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: '/blog-into-cyber.jpg'
 ---
 
 My journey into cyber security started in Jan 2021, when after failing my [CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html) for my current role as a Network Administrator and generally feeling a loss of motivation and drive, I decided that a new path was what I needed.
@@ -23,11 +23,8 @@ I watched a large number of John’s content to understand how the platform work
 
 I started with the “**Complete Beginner Path**” aimed at just a person like myself who has pretty much no knowledge of cyber security and the tools used, including the Linux operating system, which runs most of the devices when working in the cyber security world.
 
----
+<p><i>The “Complete Beginner Path” has now been superseded by the “Pre-Security” & “Junior Penetration Tester” paths with updated content.</i></p>
 
-_**==The “Complete Beginner Path” has now been superseded by the “Pre-Security” & “Junior Penetration Tester” paths with updated content.==**_
-
----
 
 Being in infrastructure for many years and having a home lab with Linux servers, I already understood some of the subjects covered in the first few modules of the path. Still, there was always something that added to my skills and knowledge.
 
@@ -57,8 +54,7 @@ If you are looking to get started in Cyber Security I would recommend the follow
 2. Start getting used to taking lots of notes. I can recommend [Obsidian](https://obsidian.md/) or [Notion](https://www.notion.so/)
 3. Once you have you feel more confident and start to look at taking on a CTF or Hack the box starting point.
 
-> _==**These are my opinions, from my experience there is no right and wrong way to get into cyber it just depends on which part you would like to get into.**==_
-
-Thanks
-
+Thanks,
 Ted.
+
+<p><i>These are my opinions, from my experience there is no right and wrong way to get into cyber it just depends on which part you would like to get into.</i></p>

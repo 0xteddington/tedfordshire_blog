@@ -1,8 +1,8 @@
 ---
-title: '$ ~/helloworld.sh'
+title: '$ ~/helloworld.py'
 description: 'My first blog post'
 pubDate: 'Jan 09 2022'
-heroImage: '/blog-placeholder-1.jpg'
+heroImage: '/blog-helloworld.jpg'
 ---
 
 This is my first blog and I thought that I would start to give back to the information technology community some of my experiences and knowledge.
